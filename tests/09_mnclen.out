@@ -1,5 +1,5 @@
 sysmoUSIM-SJS1 parameterization tool
-Copyright (c)2017 Sysmocom s.f.m.c. GmbH
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
 
 Initializing smartcard terminal...
  * Detected Card ICCID: 8988211320300000028
@@ -19,7 +19,7 @@ Writing MNCLEN value...
 
 Done!
 sysmoUSIM-SJS1 parameterization tool
-Copyright (c)2017 Sysmocom s.f.m.c. GmbH
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
 
 Initializing smartcard terminal...
  * Detected Card ICCID: 8988211320300000028
@@ -39,7 +39,7 @@ Reading MNCLEN value...
 
 Done!
 sysmoUSIM-SJS1 parameterization tool
-Copyright (c)2017 Sysmocom s.f.m.c. GmbH
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
 
 Initializing smartcard terminal...
  * Detected Card ICCID: 8988211320300000028
@@ -59,7 +59,7 @@ Writing MNCLEN value...
 
 Done!
 sysmoUSIM-SJS1 parameterization tool
-Copyright (c)2017 Sysmocom s.f.m.c. GmbH
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
 
 Initializing smartcard terminal...
  * Detected Card ICCID: 8988211320300000028
@@ -79,7 +79,7 @@ Reading MNCLEN value...
 
 Done!
 sysmoUSIM-SJS1 parameterization tool
-Copyright (c)2017 Sysmocom s.f.m.c. GmbH
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
 
 Initializing smartcard terminal...
  * Detected Card ICCID: 8988211320300000028
@@ -99,7 +99,7 @@ Writing MNCLEN value...
 
 Done!
 sysmoUSIM-SJS1 parameterization tool
-Copyright (c)2017 Sysmocom s.f.m.c. GmbH
+Copyright (c)2017-2019 Sysmocom s.f.m.c. GmbH
 
 Initializing smartcard terminal...
  * Detected Card ICCID: 8988211320300000028
