@@ -636,12 +636,12 @@ class Sysmo_isim_sja2(Sysmo_usim):
 		if algo_2g_str.isdigit():
 			algo_2g = int(algo_2g_str)
 		else:
-			algo_2g = str_to_id(sysmo_usim_algorithms, algo_2g_str)
+			algo_2g = str_to_id(sysmo_isimsja2_algorithms, algo_2g_str)
 
 		if algo_3g_str.isdigit():
 			algo_3g = int(algo_3g_str)
 		else:
-			algo_3g = str_to_id(sysmo_usim_algorithms, algo_3g_str)
+			algo_3g = str_to_id(sysmo_isimsja2_algorithms, algo_3g_str)
 
 		print(" * New algorithm setting:")
 		print("   2G: %d=%s" % (algo_2g, id_to_str(sysmo_isimsja2_algorithms, algo_2g)))
